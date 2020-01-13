@@ -6,7 +6,7 @@ os.system("figlet PORT")
 print("""
 
 
-	\033[91mWELCOME TO PORT SCAN\033[0m (DATE: 13/01/2020)
+	\033[91mWELCOME TO PORT SCANNER\033[0m (DATE: 13/01/2020)
 
 	\033[92m
 	1-)Fast Scan
