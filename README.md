@@ -19,3 +19,9 @@ python3 mac_changer.py
   USE OF
   
   python3 port_scanner.py
+
+# VULNERABILITY SCANNER 
+
+  USE OF
+  
+  python3 vulnerability_scanner.py
