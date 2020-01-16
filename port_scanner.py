@@ -11,7 +11,7 @@ print("""
 	\033[92m
 	1-)Fast Scan
 	2-)Service Version İntormation
-	3-)İşletim Sistemi Bilgisi
+	3-)OS Information
 
        \033[0m
 
