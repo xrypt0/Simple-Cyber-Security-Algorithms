@@ -11,4 +11,4 @@ ip = "wlan0"
 
 subprocess.call(["sudo","ifconfig",ip,ip_address])
 
-print("Your IP Address Successfully Changed ! \n \n  \n \n Github Link : https://github.com/wolfnatural ")
+print("Your IP Address Successfully Changed ! \n \n  \n \n Github Link : https://github.com/xrypt0 ")
