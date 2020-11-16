@@ -13,4 +13,4 @@ subprocess.call(["ifconfig",interface,"down"])
 subprocess.call(["ifconfig",interface,"hw","ether",mac_address])
 subprocess.call(["ifconfig",interface,"up"])
 
-print("Your MAC Address Successfully Changed ! \n \n \n \n Github Link : https://github.com/wolfnatural ")
+print("Your MAC Address Successfully Changed ! \n \n \n \n Github Link : https://github.com/xrypt0 ")
